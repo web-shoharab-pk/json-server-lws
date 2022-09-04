@@ -328,5 +328,91 @@
       "likes": 0,
       "unlikes": 0
     }
+  ],
+  "transactions": [
+    {
+      "name": "Salary from CloudX",
+      "type": "income",
+      "amount": 450000,
+      "date": "Mon Sep 05 2022",
+      "id": 22
+    },
+    {
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 25000,
+      "date": "Mon Sep 05 2022",
+      "id": 23
+    },
+    {
+      "name": "Home rent",
+      "type": "income",
+      "amount": 4500,
+      "date": "Mon Sep 05 2022",
+      "id": 24
+    },
+    {
+      "name": "private",
+      "type": "expense",
+      "amount": 300,
+      "date": "Mon Sep 05 2022",
+      "id": 25
+    },
+    {
+      "name": "Internet bill",
+      "type": "expense",
+      "amount": 840,
+      "date": "Mon Sep 05 2022",
+      "id": 28
+    },
+    {
+      "name": "Current bill",
+      "type": "expense",
+      "amount": 1000,
+      "date": "Sun Sep 04 2022",
+      "id": 29
+    },
+    {
+      "name": "Shohan Private bill",
+      "type": "income",
+      "amount": 650,
+      "date": "Sun Sep 04 2022",
+      "id": 30
+    },
+    {
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 23000,
+      "date": "Sun Sep 04 2022",
+      "id": 32
+    },
+    {
+      "name": "test 01",
+      "type": "income",
+      "amount": 23000,
+      "date": "Mon Sep 05 2022",
+      "id": 35
+    },
+    {
+      "name": "test 02",
+      "type": "income",
+      "amount": 100,
+      "date": "Mon Sep 05 2022",
+      "id": 36
+    },
+    {
+      "name": "test 03",
+      "type": "expense",
+      "amount": 8000,
+      "date": "Mon Sep 05 2022",
+      "id": 37
+    },
+    {
+      "name": "test 03",
+      "type": "expense",
+      "amount": 1100,
+      "date": "Mon Sep 05 2022",
+      "id": 38
+    }
   ]
 }
