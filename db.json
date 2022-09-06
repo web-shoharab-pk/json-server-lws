@@ -58,12 +58,12 @@
       "id": 1,
       "text": "Learn Vanilla JavaScript",
       "completed": true,
-      "color": "green"
+      "color": "yellow"
     },
     {
       "id": 2,
       "text": "Learn Modern ES6+ JavaScript",
-      "completed": false,
+      "completed": true,
       "color": "red"
     },
     {
@@ -73,16 +73,56 @@
       "color": "yellow"
     },
     {
-      "text": "Learn Redux Basics",
-      "completed": false,
+      "text": "Learn Redux Basics 02",
+      "completed": true,
       "id": 4,
       "color": "green"
     },
     {
-      "text": "Learn Redux fundamentals test",
-      "completed": false,
-      "id": 5,
+      "text": "last test to adding",
+      "completed": true,
+      "id": 12,
+      "color": "green"
+    },
+    {
+      "text": "test 02",
+      "completed": true,
+      "id": 16,
+      "color": "yellow"
+    },
+    {
+      "text": "test 03",
+      "completed": true,
+      "id": 17,
       "color": "red"
+    },
+    {
+      "text": "test 04",
+      "completed": true,
+      "id": 20,
+      "color": "yellow"
+    },
+    {
+      "text": "test 05",
+      "completed": true,
+      "id": 21,
+      "color": "green"
+    },
+    {
+      "text": "test",
+      "completed": true,
+      "id": 22,
+      "color": "yellow"
+    },
+    {
+      "text": "test 01",
+      "completed": true,
+      "id": 23
+    },
+    {
+      "text": "test",
+      "completed": true,
+      "id": 24
     }
   ],
   "videos": [
@@ -143,22 +183,16 @@
       "unlikes": 0
     },
     {
-      "id": 4,
       "title": "7 Steps to Become a Web Developer || How to Become Web Developer in 2020",
-      "description": "Becoming a web developer shouldn't be boring or frustrating. These 7 steps will help you gain much more clarity to take actions and work towards becoming a world class web developer and conquer your dream.",
       "author": "Programming Hero",
-      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_JuiwUKA8OSoT97avCn9xufJV0LsQFYJkMYdAq=s48-c-k-c0x00ffffff-no-rj",
-      "date": "10 Jun 2020",
-      "duration": "9:12",
-      "views": "112.1k",
+      "description": "Becoming a web developer shouldn't be boring or frustrating. These 7 steps will help you gain much more clarity to take actions and work towards becoming a world class web developer and conquer your dream.",
       "link": "https://www.youtube.com/embed/kUMV7jmbpPY",
       "thumbnail": "https://i.ytimg.com/vi/kUMV7jmbpPY/hqdefault.jpg",
-      "tags": [
-        "react",
-        "tips"
-      ],
-      "likes": 0,
-      "unlikes": 0
+      "date": "10 Jun 2020",
+      "duration": "9:12",
+      "views": "110.1k",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_JuiwUKA8OSoT97avCn9xufJV0LsQFYJkMYdAq=s48-c-k-c0x00ffffff-no-rj",
+      "id": 4
     },
     {
       "id": 5,
@@ -327,6 +361,42 @@
       ],
       "likes": 0,
       "unlikes": 0
+    },
+    {
+      "title": "Game Development For Absolute Beginners || Build a Chicken Escape Game in 1 hour",
+      "author": "Programming Hero",
+      "description": "Learn Game Development Basics. Explore game principles and build a Chicken Escape game in one hour without any prior programming knowledge. ",
+      "link": "https://www.youtube.com/embed/_4kdr0SCWFc",
+      "thumbnail": "https://i.ytimg.com/vi/_4kdr0SCWFc/hqdefault.jpg",
+      "date": "18 Apr 2020",
+      "duration": "1:12:03",
+      "views": "62.1k",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_JuiwUKA8OSoT97avCn9xufJV0LsQFYJkMYdAq=s48-c-k-c0x00ffffff-no-rj",
+      "id": 14
+    },
+    {
+      "title": "Game Development For Absolute Beginners || Build a Chicken Escape Game in 1 hour",
+      "author": "Programming Hero",
+      "description": "Learn Game Development Basics. Explore game principles and build a Chicken Escape game in one hour without any prior programming knowledge. ",
+      "link": "https://www.youtube.com/embed/_4kdr0SCWFc",
+      "thumbnail": "https://i.ytimg.com/vi/_4kdr0SCWFc/hqdefault.jpg",
+      "date": "18 Apr 2020",
+      "duration": "1:12:03",
+      "views": "62.1k",
+      "avatar": "https://yt3.ggpht.com/ytc/AMLnZu_JuiwUKA8OSoT97avCn9xufJV0LsQFYJkMYdAq=s48-c-k-c0x00ffffff-no-rj",
+      "id": 15
+    },
+    {
+      "title": "যে ১০ টি ভুল বিগিনার রিয়্যাক্ট ডেভেলপাররা করে থাকেন",
+      "author": "Learn with Sumit",
+      "description": "আপনারা যারা বিগিনার হিসেবে রিয়্যাক্ট জেস নিয়ে কাজ করা শুরু করেছেন, তারা রিয়্যাক্ট এর বেশ কিছু কনসেপ্ট ঠিক মতো আয়ত্ত না করতে পারার কারণে বিচিত্র কিছু সমস্যার সম্মুখীন হন এবং শেষ পর্যন্ত বুঝতে না পেরে হতাশ হয়ে পড়েন। তাদের জন্যই এই ভিডিওটি। এই ভিডিওতে আমি এমন ১০টি সমস্যার কথা তুলে ধরেছি যেগুলো বিগিনার হিসেবে আপনারা অহরহ সম্মুখীন হবেন। আশা করি ভিডিওটি দেখলে আপনাদের এই সমস্যাগুলো নিয়ে আর কনফিউশন থাকবেনা।",
+      "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
+      "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
+      "date": "18 Apr 2020",
+      "duration": "10:12",
+      "views": "3.1k",
+      "avatar": "https://avatars.githubusercontent.com/u/73503432?v=4",
+      "id": 17
     }
   ],
   "transactions": [
