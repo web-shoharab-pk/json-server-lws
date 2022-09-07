@@ -57,24 +57,24 @@
     {
       "id": 1,
       "text": "Learn Vanilla JavaScript",
-      "completed": true,
+      "completed": false,
       "color": "yellow"
     },
     {
       "id": 2,
       "text": "Learn Modern ES6+ JavaScript",
-      "completed": true,
+      "completed": false,
       "color": "red"
     },
     {
       "id": 3,
       "text": "Learn React JS",
-      "completed": true,
+      "completed": false,
       "color": "yellow"
     },
     {
       "text": "Learn Redux Basics 02",
-      "completed": true,
+      "completed": false,
       "id": 4,
       "color": "green"
     },
@@ -97,32 +97,24 @@
       "color": "red"
     },
     {
-      "text": "test 04",
+      "text": "asdf",
       "completed": true,
-      "id": 20,
-      "color": "yellow"
+      "id": 18
     },
     {
-      "text": "test 05",
+      "text": "asdf",
       "completed": true,
-      "id": 21,
-      "color": "green"
+      "id": 19
     },
     {
-      "text": "test",
+      "text": "asdf",
       "completed": true,
-      "id": 22,
-      "color": "yellow"
+      "id": 20
     },
     {
-      "text": "test 01",
+      "text": "asdf",
       "completed": true,
-      "id": 23
-    },
-    {
-      "text": "test",
-      "completed": true,
-      "id": 24
+      "id": 21
     }
   ],
   "videos": [
